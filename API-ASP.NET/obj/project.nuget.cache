@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "zDobhWfIq6VkkuEG+CRQROjxqgwiEMdL95FMjpgOzGl4OVvjH79EyG2LgXvaVBUPtF0BUrfbaXfyWrDlrIRa/g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\delta\\Documents\\Code\\firstDOTEUNET\\API-ASP.NET\\API-ASP.NET\\API-ASP.NET.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Authentication.JwtBearer (>= 6.0.9)' for 'net6.0'.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Authentication.OpenIdConnect (>= 6.0.9)' for 'net6.0'.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.OpenIdConnect",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Identity.Web (>= 1.16.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.Identity.Web",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Swashbuckle.AspNetCore (>= 6.2.3)' for 'net6.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
